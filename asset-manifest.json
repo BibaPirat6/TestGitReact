@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BibaPirat6/TestGitReact/static/css/main.f855e6bc.css",
-    "main.js": "/BibaPirat6/TestGitReact/static/js/main.af7fe9a0.js",
-    "static/js/453.c6b8bd57.chunk.js": "/BibaPirat6/TestGitReact/static/js/453.c6b8bd57.chunk.js",
-    "static/media/logo.svg": "/BibaPirat6/TestGitReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/BibaPirat6/TestGitReact/index.html",
-    "main.f855e6bc.css.map": "/BibaPirat6/TestGitReact/static/css/main.f855e6bc.css.map",
-    "main.af7fe9a0.js.map": "/BibaPirat6/TestGitReact/static/js/main.af7fe9a0.js.map",
-    "453.c6b8bd57.chunk.js.map": "/BibaPirat6/TestGitReact/static/js/453.c6b8bd57.chunk.js.map"
+    "main.css": "/TestGitReact/static/css/main.f855e6bc.css",
+    "main.js": "/TestGitReact/static/js/main.3fe0129b.js",
+    "static/js/453.c6b8bd57.chunk.js": "/TestGitReact/static/js/453.c6b8bd57.chunk.js",
+    "static/media/logo.svg": "/TestGitReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TestGitReact/index.html",
+    "main.f855e6bc.css.map": "/TestGitReact/static/css/main.f855e6bc.css.map",
+    "main.3fe0129b.js.map": "/TestGitReact/static/js/main.3fe0129b.js.map",
+    "453.c6b8bd57.chunk.js.map": "/TestGitReact/static/js/453.c6b8bd57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.af7fe9a0.js"
+    "static/js/main.3fe0129b.js"
   ]
 }
